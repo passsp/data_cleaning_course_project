@@ -51,4 +51,4 @@ WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
     
 which takes values from 1 to 30.
 
-Then the script "run_analysis.R" calculates average values of measurements for each subject for each activity.
+Then the script [run_analysis.R](https://github.com/passsp/data_cleaning_course_project/blob/master/run_analysis.R) calculates average values of measurements for each subject for each activity.
